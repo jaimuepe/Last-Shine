@@ -4,6 +4,6 @@
 
 ![A screenshot of the game](last_shine_screenshot.jpg?raw=true "A screenshot of the game")
 
-It was developed for Ludum Dare 39.
+It was developed for **Ludum Dare 39**, "**Running out of power**".
 
-You can play the game here: https://ldjam.com/events/ludum-dare/39/last-shine
+You can find more info here: https://ldjam.com/events/ludum-dare/39/last-shine
